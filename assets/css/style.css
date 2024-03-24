@@ -18,10 +18,10 @@
 
 body{
     background-color: rgba(34, 31, 31, 1);
+    max-width: 1440px;
 }
 
 .webPageContainer{
-    width: 1440px;
     margin: auto;
     background-color: rgba(34, 31, 31, 1);
 }
